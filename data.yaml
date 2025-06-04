@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['occupied', 'vacant']
+
+roboflow:
+  workspace: asd-j9iow
+  project: parking-space-4-q3enj
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/asd-j9iow/parking-space-4-q3enj/dataset/1
