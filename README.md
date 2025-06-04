@@ -31,6 +31,9 @@ trong khu vực đỗ xe. Hệ thống giúp người quản lý dễ dàng theo
 - Thống kê số lượng ô trống, số ô đã sử dụng.
 - Tùy chọn mở rộng: cảnh báo đỗ sai, phân tích lưu lượng, tích hợp thanh toán...
 
+## Quy trình hoạt động
+![image](https://github.com/user-attachments/assets/e35545c4-cc96-417d-9be7-3e881b2b1432)
+
 ## Cấu trúc dự án
 ![image](https://github.com/user-attachments/assets/711062e3-cd15-494e-8b16-d995bf57ab31)
 
